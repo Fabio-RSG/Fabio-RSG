@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**Fabio-RSG/Fabio-RSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fabio Rezende
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo :mailbox
+
+00001106604015sp@al.educacao.sp.gov.br@gmail.com
+
+@Fabio Rezende silva garcia
+
+![descrição do GIF](link GIF do Tenor) 
+
+https://media1.tenor.com/m/mGCIE9cvV7gAAAAd/poppy-playtime-chapter-3-catnap.gif
